@@ -1,5 +1,5 @@
 An optimistic and curious engineer who loves to code, write blogs and lead the team.
-Having 3+ years of experience in software development with 30+ technical blogs published on different topics.
+Having 3+ years of experience in software development with 30+ technical blogs published on different topics.\n
 Worked on different languages, CLOUDS and serverless platforms such as Java, Python, AWS ,GCP and openWhisk.
 Check out my Nerdy side at - https://www.nerdybio.com/interview/?search=Utkarsh.Shukla
 Product owner at NerdyBio - https://www.nerdybio.com/
