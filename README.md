@@ -1,8 +1,11 @@
-An optimistic and curious engineer who loves to code, write blogs and lead the team.
+Tech wizard and innovation enthusiast 💻 Product Owner at NerdyBio and Full Stack Developer at StatusNeo.
 
-Having 3+ years of experience in software development with 50+ technical blogs published on different topics.
+With 50+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none.
 
-Worked on different languages, CLOUDS and serverless platforms such as Java, Python, AWS ,GCP and openWhisk.
+I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, and Redshift.
+
+Award-winning professional 🏆 Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
+
 Check out my [website](https://www.utkarshshukla.com/)
 
 Check out my Nerdy side at - [NerdyBio](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
