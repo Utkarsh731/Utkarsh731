@@ -8,12 +8,13 @@ Award-winning professional 🏆 Recognized with the Student of the Semester Awar
 
 Check out my [website](https://www.utkarshshukla.com/)
 
+Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
+
+Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
+
 Check out my Nerdy side at - [NerdyBio](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
 
 Product owner at [NerdyBio](https://www.nerdybio.com/)
 
-Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
-
 Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
 
-Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
