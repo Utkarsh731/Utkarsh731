@@ -18,3 +18,7 @@ Product owner at [NerdyBio](https://www.nerdybio.com/)
 
 Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
 
+Checkout my Trending Blogs-
+
+[Using ChatGPT for Agile and Rapid Development](https://medium.com/devops-dev/using-chatgpt-for-agile-and-rapid-development-57f572b412d3)
+
