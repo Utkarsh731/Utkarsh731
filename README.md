@@ -26,3 +26,4 @@ Checkout my Trending Blogs-
 
 [Redis vs Memcached: Which One Is Right for Your Application?](https://medium.com/@utkarshshukla.author/redis-vs-memcached-which-one-is-right-for-your-application-a3525d4ed688)
 
+[Mastering Caching: Choosing the Right Type for Optimal Application Performance](https://medium.com/@utkarshshukla.author/mastering-caching-choosing-the-right-type-for-optimal-application-performance-407e169461b7)
