@@ -21,5 +21,6 @@ Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
 Checkout my Trending Blogs-
 
 [Using ChatGPT for Agile and Rapid Development](https://medium.com/devops-dev/using-chatgpt-for-agile-and-rapid-development-57f572b412d3)
+
 [Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
 
