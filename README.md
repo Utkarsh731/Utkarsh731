@@ -24,3 +24,5 @@ Checkout my Trending Blogs-
 
 [Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
 
+[Redis vs Memcached: Which One Is Right for Your Application?](https://medium.com/@utkarshshukla.author/redis-vs-memcached-which-one-is-right-for-your-application-a3525d4ed688)
+
