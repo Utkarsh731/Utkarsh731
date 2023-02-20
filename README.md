@@ -12,8 +12,6 @@ Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
 
 Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
 
-Check out my Nerdy side at - [NerdyBio](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
-
 Product owner at [NerdyBio](https://www.nerdybio.com/)
 
 Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
