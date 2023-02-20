@@ -16,6 +16,8 @@ Product owner at [NerdyBio](https://www.nerdybio.com/)
 
 Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
 
+Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
+
 Checkout my Trending Blogs-
 
 [Redis vs Memcached: Which One Is Right for Your Application?](https://medium.com/@utkarshshukla.author/redis-vs-memcached-which-one-is-right-for-your-application-a3525d4ed688)
@@ -25,4 +27,5 @@ Checkout my Trending Blogs-
 [Using ChatGPT for Agile and Rapid Development](https://medium.com/devops-dev/using-chatgpt-for-agile-and-rapid-development-57f572b412d3)
 
 [Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
+
 
