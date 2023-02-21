@@ -20,6 +20,8 @@ Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
 Checkout my Trending Blogs-
 
+[Caching- Is it necessary for an Application?](https://medium.com/@utkarshshukla.author/caching-is-it-necessary-for-an-application-fd6f0cc79100)
+
 [The Art of Ethical Hacking: How to Hack Legally and Securely](https://medium.com/@utkarshshukla.author/the-art-of-ethical-hacking-how-to-hack-legally-and-securely-2ce8e5b6b81)
 
 [Redis vs Memcached: Which One Is Right for Your Application?](https://medium.com/@utkarshshukla.author/redis-vs-memcached-which-one-is-right-for-your-application-a3525d4ed688)
