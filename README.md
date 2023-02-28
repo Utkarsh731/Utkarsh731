@@ -6,7 +6,7 @@ I bring proficiency in Python with a strong grip on frameworks such as Flask and
 
 Award-winning professional 🏆 Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
 
-Check out my [website](https://www.utkarshshukla.com/)
+Check out my website - [Utkarsh Shukla Website](https://www.utkarshshukla.com/)
 
 Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
 
