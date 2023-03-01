@@ -14,7 +14,7 @@ Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
 
 Product owner at [NerdyBio](https://www.nerdybio.com/)
 
-Technical blogs for [statusneo](https://statusneo.com/author/utkarsh-shukla)
+Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
 
 Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
