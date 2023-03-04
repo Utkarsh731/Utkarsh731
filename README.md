@@ -36,4 +36,6 @@ Checkout my Trending Blogs-
 
 [Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
 
+[Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
+
 [Five Points to learn from the movie -The Social Network](https://medium.com/@utkarshshukla.author/five-points-to-learn-from-the-movie-the-social-network-e96d7324df2b)
