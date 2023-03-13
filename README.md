@@ -22,6 +22,8 @@ Checkout my Trending Blogs-
 
 [Unleashing the Magic of Python: A Comprehensive Guide to Python’s Magic Functions](https://medium.com/@utkarshshukla.author/unleashing-the-magic-of-python-a-comprehensive-guide-to-pythons-magic-functions-5813ec849221)
 
+[Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
+
 [Micro Frontends: A Complete Guide to Scalable and Modular Web Development](https://statusneo.com/micro-frontends-a-complete-guide-to-scalable-and-modular-web-development/)
 
 [Trunk-Based Deployment: Streamlining Your Software Development Process for Faster Delivery Across Multiple Environments in GitHub](https://medium.com/@utkarshshukla.author/trunk-based-deployment-streamlining-your-software-development-process-for-faster-delivery-across-9501a4c7717c)
@@ -35,8 +37,6 @@ Checkout my Trending Blogs-
 [Mastering Caching: Choosing the Right Type for Optimal Application Performance](https://medium.com/@utkarshshukla.author/mastering-caching-choosing-the-right-type-for-optimal-application-performance-407e169461b7)
 
 [Using ChatGPT for Agile and Rapid Development](https://medium.com/devops-dev/using-chatgpt-for-agile-and-rapid-development-57f572b412d3)
-
-[Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
 
 [Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
 
