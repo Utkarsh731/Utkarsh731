@@ -26,6 +26,8 @@ Checkout my Trending Blogs-
 
 [Micro Frontends: A Complete Guide to Scalable and Modular Web Development](https://statusneo.com/micro-frontends-a-complete-guide-to-scalable-and-modular-web-development/)
 
+[Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
+
 [Trunk-Based Deployment: Streamlining Your Software Development Process for Faster Delivery Across Multiple Environments in GitHub](https://medium.com/@utkarshshukla.author/trunk-based-deployment-streamlining-your-software-development-process-for-faster-delivery-across-9501a4c7717c)
 
 [Caching- Is it necessary for an Application?](https://medium.com/@utkarshshukla.author/caching-is-it-necessary-for-an-application-fd6f0cc79100)
@@ -37,8 +39,6 @@ Checkout my Trending Blogs-
 [Mastering Caching: Choosing the Right Type for Optimal Application Performance](https://medium.com/@utkarshshukla.author/mastering-caching-choosing-the-right-type-for-optimal-application-performance-407e169461b7)
 
 [Using ChatGPT for Agile and Rapid Development](https://medium.com/devops-dev/using-chatgpt-for-agile-and-rapid-development-57f572b412d3)
-
-[Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
 
 [Five Points to learn from the movie -The Social Network](https://medium.com/@utkarshshukla.author/five-points-to-learn-from-the-movie-the-social-network-e96d7324df2b)
 
