@@ -1,4 +1,4 @@
-Tech wizard and innovation enthusiast 💻 Product Owner at NerdyBio and Full Stack Developer at StatusNeo.
+Tech wizard, speaker and innovation enthusiast 💻 Product Owner at NerdyBio and Full Stack Developer at StatusNeo.
 
 100+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none.
 
