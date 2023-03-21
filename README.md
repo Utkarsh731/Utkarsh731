@@ -46,3 +46,5 @@ Checkout my Trending Blogs-
 
 [Five Points to learn from the movie -The Social Network](https://medium.com/@utkarshshukla.author/five-points-to-learn-from-the-movie-the-social-network-e96d7324df2b)
 
+[Beyond the Bottom Line: The Power and Potential of ESG in Business and Investment](https://medium.com/@utkarshshukla.author/beyond-the-bottom-line-the-power-and-potential-of-esg-in-business-and-investment-52b8a71c9e85)
+
