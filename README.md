@@ -20,6 +20,8 @@ Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
 Checkout my Trending Blogs-
 
+[Crack Your Python Interview with These Top Python Questions and Answers](https://medium.com/@utkarshshukla.author/crack-your-python-interview-with-these-top-python-questions-and-answers-1de79f373e0f)
+
 [Unleashing the Magic of Python: A Comprehensive Guide to Python’s Magic Functions](https://medium.com/@utkarshshukla.author/unleashing-the-magic-of-python-a-comprehensive-guide-to-pythons-magic-functions-5813ec849221)
 
 [Deploying Python Application on Elastic BeanStalk and Automating the Deployment](https://medium.com/devops-dev/deploying-python-flask-application-on-aws-elastic-beanstalk-and-creating-a-ci-cd-pipeline-with-4494538e31f9)
