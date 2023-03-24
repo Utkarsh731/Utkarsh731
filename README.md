@@ -30,6 +30,8 @@ Checkout my Trending Blogs-
 
 [Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
 
+[Cookies: The Small but Mighty Tool Making Your Web Browsing Experience Better (And What You Need to Know About Them)](https://medium.com/@utkarshshukla.author/cookies-the-small-but-mighty-tool-making-your-web-browsing-experience-better-and-what-you-need-to-cc9d8168daa0)
+
 [Trunk-Based Deployment: Streamlining Your Software Development Process for Faster Delivery Across Multiple Environments in GitHub](https://medium.com/@utkarshshukla.author/trunk-based-deployment-streamlining-your-software-development-process-for-faster-delivery-across-9501a4c7717c)
 
 [Caching- Is it necessary for an Application?](https://medium.com/@utkarshshukla.author/caching-is-it-necessary-for-an-application-fd6f0cc79100)
