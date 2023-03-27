@@ -54,3 +54,4 @@ Checkout my Trending Blogs-
 
 [Secure Your Code with Gitleaks: Preventing Accidental Exposure of Sensitive Information](https://medium.com/@utkarshshukla.author/secure-your-code-with-gitleaks-preventing-accidental-exposure-of-sensitive-information-5bae2d125e96)
 
+[The Art of Deception: Understanding Social Engineering Tactics and How to Stay Protected](https://medium.com/@utkarshshukla.author/the-art-of-deception-understanding-social-engineering-tactics-and-how-to-stay-protected-38d2a564bc2e)
