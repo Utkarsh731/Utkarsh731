@@ -57,3 +57,7 @@ Checkout my Trending Blogs-
 [The Art of Deception: Understanding Social Engineering Tactics and How to Stay Protected](https://medium.com/@utkarshshukla.author/the-art-of-deception-understanding-social-engineering-tactics-and-how-to-stay-protected-38d2a564bc2e)
 
 [Streaming Data Made Simple: Exploring the Power of Kafka with Real-Life Examples](https://medium.com/@utkarshshukla.author/streaming-data-made-simple-exploring-the-power-of-kafka-with-real-life-examples-301374a07713)
+
+[Behind the Scenes: How YouTube Handles Massive Traffic and Real-Time View and Like Counts](https://medium.com/@utkarshshukla.author/behind-the-scenes-how-youtube-handles-massive-traffic-and-real-time-view-and-like-counts-18468436a96e)
+
+
