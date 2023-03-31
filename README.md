@@ -60,4 +60,7 @@ Checkout my Trending Blogs-
 
 [Behind the Scenes: How YouTube Handles Massive Traffic and Real-Time View and Like Counts](https://medium.com/@utkarshshukla.author/behind-the-scenes-how-youtube-handles-massive-traffic-and-real-time-view-and-like-counts-18468436a96e)
 
+[Dissecting the Inner Workings of Medium: The Microservices Architecture Behind the Platform](https://medium.com/@utkarshshukla.author/dissecting-the-inner-workings-of-medium-the-microservices-architecture-behind-the-platform-890e32c879cc)
+
+
 
