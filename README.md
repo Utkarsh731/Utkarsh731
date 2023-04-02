@@ -28,6 +28,8 @@ Checkout my Trending Blogs-
 
 [Micro Frontends: A Complete Guide to Scalable and Modular Web Development](https://statusneo.com/micro-frontends-a-complete-guide-to-scalable-and-modular-web-development/)
 
+
+
 [Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
 
 [Cookies: The Small but Mighty Tool Making Your Web Browsing Experience Better (And What You Need to Know About Them)](https://medium.com/@utkarshshukla.author/cookies-the-small-but-mighty-tool-making-your-web-browsing-experience-better-and-what-you-need-to-cc9d8168daa0)
@@ -62,4 +64,5 @@ Checkout my Trending Blogs-
 
 [Dissecting the Inner Workings of Medium: The Microservices Architecture Behind the Platform](https://medium.com/@utkarshshukla.author/dissecting-the-inner-workings-of-medium-the-microservices-architecture-behind-the-platform-890e32c879cc)
 
+[Decoding Google’s Algorithm: A Comprehensive Guide to Understanding Search Rankings](https://medium.com/@utkarshshukla.author/decoding-googles-algorithm-a-comprehensive-guide-to-understanding-search-rankings-7703a1c16b15)
 
