@@ -66,3 +66,7 @@ Checkout my Trending Blogs-
 
 [Decoding Google’s Algorithm: A Comprehensive Guide to Understanding Search Rankings](https://medium.com/@utkarshshukla.author/decoding-googles-algorithm-a-comprehensive-guide-to-understanding-search-rankings-7703a1c16b15)
 
+[Inside Instagram Reels: How it Handles Traffic and Counts Likes and Comments](https://medium.com/@utkarshshukla.author/inside-instagram-reels-how-it-handles-traffic-and-counts-likes-and-comments-8fc84a94944d)
+
+
+
