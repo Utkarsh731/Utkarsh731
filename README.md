@@ -68,3 +68,4 @@ Checkout my Trending Blogs-
 
 [Inside Instagram Reels: How it Handles Traffic and Counts Likes and Comments](https://medium.com/@utkarshshukla.author/inside-instagram-reels-how-it-handles-traffic-and-counts-likes-and-comments-8fc84a94944d)
 
+[Semantic Search: How to Implement it and Improve Search Results](https://medium.com/@utkarshshukla.author/semantic-search-how-to-implement-it-and-improve-search-results-16b017acf7c3)
