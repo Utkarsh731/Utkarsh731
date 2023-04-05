@@ -28,8 +28,6 @@ Checkout my Trending Blogs-
 
 [Micro Frontends: A Complete Guide to Scalable and Modular Web Development](https://statusneo.com/micro-frontends-a-complete-guide-to-scalable-and-modular-web-development/)
 
-
-
 [Behind the Scenes: How Instagram Reels Handles Massive Traffic and Real-Time View and Like Counts](https://statusneo.com/behind-the-scenes-how-instagram-reels-handles-massive-traffic-and-real-time-view-and-like-counts/)
 
 [Cookies: The Small but Mighty Tool Making Your Web Browsing Experience Better (And What You Need to Know About Them)](https://medium.com/@utkarshshukla.author/cookies-the-small-but-mighty-tool-making-your-web-browsing-experience-better-and-what-you-need-to-cc9d8168daa0)
@@ -69,3 +67,4 @@ Checkout my Trending Blogs-
 [Inside Instagram Reels: How it Handles Traffic and Counts Likes and Comments](https://medium.com/@utkarshshukla.author/inside-instagram-reels-how-it-handles-traffic-and-counts-likes-and-comments-8fc84a94944d)
 
 [Semantic Search: How to Implement it and Improve Search Results](https://medium.com/@utkarshshukla.author/semantic-search-how-to-implement-it-and-improve-search-results-16b017acf7c3)
+
