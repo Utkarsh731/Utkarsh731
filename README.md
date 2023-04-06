@@ -69,3 +69,5 @@ Checkout my Trending Blogs-
 [Semantic Search: How to Implement it and Improve Search Results](https://medium.com/@utkarshshukla.author/semantic-search-how-to-implement-it-and-improve-search-results-16b017acf7c3)
 
 [Unveiling the Truth: Can LinkedIn View Your Chats?](https://medium.com/@utkarshshukla.author/unveiling-the-truth-can-linkedin-view-your-chats-fb39541cdac3)
+
+[The ethical considerations of data collection and use in the digital age](https://medium.com/@utkarshshukla.author/the-ethical-considerations-of-data-collection-and-use-in-the-digital-age-55347261a0d5)
