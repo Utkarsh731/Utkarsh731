@@ -73,5 +73,3 @@ Checkout my Trending Blogs-
 [The ethical considerations of data collection and use in the digital age](https://medium.com/@utkarshshukla.author/the-ethical-considerations-of-data-collection-and-use-in-the-digital-age-55347261a0d5)
 
 [The impact of virtual and augmented reality on the entertainment industry](https://medium.com/@utkarshshukla.author/the-impact-of-virtual-and-augmented-reality-on-the-entertainment-industry-875ab6cab563)
-
-
