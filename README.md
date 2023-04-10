@@ -74,3 +74,4 @@ Checkout my Trending Blogs-
 
 [The impact of virtual and augmented reality on the entertainment industry](https://medium.com/@utkarshshukla.author/the-impact-of-virtual-and-augmented-reality-on-the-entertainment-industry-875ab6cab563)
 
+[The role of chatbots in customer service and support](https://medium.com/@utkarshshukla.author/the-role-of-chatbots-in-customer-service-and-support-26b86bc8b559)
