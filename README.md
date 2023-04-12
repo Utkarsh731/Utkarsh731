@@ -77,3 +77,5 @@ Checkout my Trending Blogs-
 [The role of chatbots in customer service and support](https://medium.com/@utkarshshukla.author/the-role-of-chatbots-in-customer-service-and-support-26b86bc8b559)
 
 [Behind the Scenes: How Live Streaming Platforms Bring the World to Your Screen](https://medium.com/@utkarshshukla.author/behind-the-scenes-how-live-streaming-platforms-bring-the-world-to-your-screen-f40bf7ec6c79)
+
+[NFTs: A Deep Dive into Non-Fungible Tokens](https://medium.com/@utkarshshukla.author/nfts-a-deep-dive-into-non-fungible-tokens-c42b4cbbf1f7)
