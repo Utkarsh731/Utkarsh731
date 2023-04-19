@@ -80,3 +80,5 @@ Checkout my Trending Blogs-
 
 [NFTs: A Deep Dive into Non-Fungible Tokens](https://medium.com/@utkarshshukla.author/nfts-a-deep-dive-into-non-fungible-tokens-c42b4cbbf1f7)
 
+[Python’s Powerful Trio: Map, Filter, and Reduce for Simplifying Data Processing](https://medium.com/@utkarshshukla.author/pythons-powerful-trio-map-filter-and-reduce-for-simplifying-data-processing-f4ab79fd076f)
+
