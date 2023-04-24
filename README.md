@@ -18,7 +18,7 @@ Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
 
 Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
-Checkout my Trending Blogs-
+Checkout my Blogs-
 
 [Crack Your Python Interview with These Top Python Questions and Answers](https://medium.com/@utkarshshukla.author/crack-your-python-interview-with-these-top-python-questions-and-answers-1de79f373e0f)
 
@@ -85,5 +85,3 @@ Checkout my Trending Blogs-
 [Comprehend Comprehensions in Python: A Comprehensive Guide with Examples](https://medium.com/@utkarshshukla.author/comprehend-comprehensions-in-python-a-comprehensive-guide-with-examples-5f5ae9a37637)
 
 [Revolutionizing the World: Exploring IoT and Its Real-Life Applications](https://medium.com/@utkarshshukla.author/revolutionizing-the-world-exploring-iot-and-its-real-life-applications-5e4fe9aedb5c)
-
-
