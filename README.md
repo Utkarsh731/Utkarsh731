@@ -76,3 +76,5 @@ Checkout my Blogs-
 [Comprehend Comprehensions in Python: A Comprehensive Guide with Examples](https://medium.com/@utkarshshukla.author/comprehend-comprehensions-in-python-a-comprehensive-guide-with-examples-5f5ae9a37637)
 
 [Revolutionizing the World: Exploring IoT and Its Real-Life Applications](https://medium.com/@utkarshshukla.author/revolutionizing-the-world-exploring-iot-and-its-real-life-applications-5e4fe9aedb5c)
+
+[Introducing Black: The Uncompromising Python Code Formatter](https://statusneo.com/introducing-black-the-uncompromising-python-code-formatter/)
