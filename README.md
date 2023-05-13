@@ -9,7 +9,7 @@ Product owner at [NerdyBio](https://www.nerdybio.com/)
 Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
 Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
-Checkout my trending Blogs-
+Checkout some of my Blogs-
 
 [Crack Your Python Interview with These Top Python Questions and Answers](https://medium.com/@utkarshshukla.author/crack-your-python-interview-with-these-top-python-questions-and-answers-1de79f373e0f)
 
