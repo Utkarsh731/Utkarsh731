@@ -78,3 +78,5 @@ Checkout some of my trending Blogs-
 [Revolutionizing the World: Exploring IoT and Its Real-Life Applications](https://medium.com/@utkarshshukla.author/revolutionizing-the-world-exploring-iot-and-its-real-life-applications-5e4fe9aedb5c)
 
 [Introducing Black: The Uncompromising Python Code Formatter](https://statusneo.com/introducing-black-the-uncompromising-python-code-formatter/)
+
+[Mastering Java Interviews: A Comprehensive Guide to SDE 1 and SDE 2 Java Interview Questions with Answers](https://medium.com/@utkarshshukla.author/mastering-java-interviews-a-comprehensive-guide-to-sde-1-and-sde-2-java-interview-questions-with-9a8329d359c7)
