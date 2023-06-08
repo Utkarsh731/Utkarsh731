@@ -4,11 +4,17 @@ Tech wizard, speaker and innovation enthusiast 💻 Product Owner at [NerdyBio](
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, and Redshift.
 
 Award-winning professional 🏆 Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
+
 Check out my website - [Utkarsh Shukla Website](https://www.utkarshshukla.com/)
+
 Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
+
 Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
+
 Product owner at [NerdyBio](https://www.nerdybio.com/)
+
 Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
+
 Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
 Checkout some of my trending Blogs-
