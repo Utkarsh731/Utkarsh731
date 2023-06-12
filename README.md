@@ -1,4 +1,5 @@
 Tech wizard, speaker and innovation enthusiast 💻 Product Owner at [NerdyBio](https://www.nerdybio.com/) and Full Stack Developer and Consultant at [StatusNeo](https://statusneo.com/)
+
 110+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, and Redshift.
