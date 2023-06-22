@@ -20,6 +20,8 @@ Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
 Checkout some of my trending Blogs-
 
+[Generative AI: How It’s Disrupting Industries and Changing the World](https://statusneo.com/generative-ai-how-its-disrupting-industries-and-changing-the-world/)
+
 [Crack Your Python Interview with These Top Python Questions and Answers](https://medium.com/@utkarshshukla.author/crack-your-python-interview-with-these-top-python-questions-and-answers-1de79f373e0f)
 
 [Unleashing the Magic of Python: A Comprehensive Guide to Python’s Magic Functions](https://medium.com/@utkarshshukla.author/unleashing-the-magic-of-python-a-comprehensive-guide-to-pythons-magic-functions-5813ec849221)
