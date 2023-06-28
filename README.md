@@ -95,3 +95,5 @@ Checkout some of my trending Blogs-
 [Mastering Java Interviews: A Comprehensive Guide to SDE 1 and SDE 2 Java Interview Questions with Answers](https://medium.com/@utkarshshukla.author/mastering-java-interviews-a-comprehensive-guide-to-sde-1-and-sde-2-java-interview-questions-with-9a8329d359c7)
 
 [Demystifying Deep Copy vs Shallow Copy in Python: Ensuring Data Integrity and Preventing Surprises](https://medium.com/@utkarshshukla.author/demystifying-deep-copy-vs-shallow-copy-in-python-ensuring-data-integrity-and-preventing-surprises-b28b2c4740c1)
+
+[UPI: Revolutionizing the Payment Industry with Seamless Transactions]([)](https://medium.com/@utkarshshukla.author/upi-revolutionizing-the-payment-industry-with-seamless-transactions-f719c6eaedb)https://medium.com/@utkarshshukla.author/upi-revolutionizing-the-payment-industry-with-seamless-transactions-f719c6eaedb)
