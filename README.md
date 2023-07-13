@@ -2,7 +2,7 @@ Tech wizard, speaker and innovation enthusiast 💻 Product Owner at [NerdyBio](
 
 115+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
-I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, and Redshift.
+I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
 
 Award-winning professional 🏆 Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
 
