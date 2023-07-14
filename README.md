@@ -97,3 +97,5 @@ Checkout some of my trending Blogs-
 [Demystifying Deep Copy vs Shallow Copy in Python: Ensuring Data Integrity and Preventing Surprises](https://medium.com/@utkarshshukla.author/demystifying-deep-copy-vs-shallow-copy-in-python-ensuring-data-integrity-and-preventing-surprises-b28b2c4740c1)
 
 [UPI: Revolutionizing the Payment Industry with Seamless Transactions](https://medium.com/@utkarshshukla.author/upi-revolutionizing-the-payment-industry-with-seamless-transactions-f719c6eaedb)
+
+[Synergistic Potential: Exploring the Power of Generative AI in the IoT Industry](https://www.linkedin.com/pulse/synergistic-potential-exploring-power-generative-ai-iot-shukla%3FtrackingId=Ro50gqcAJecUQ8HcvfYKdQ%253D%253D/?trackingId=Ro50gqcAJecUQ8HcvfYKdQ%3D%3D)
