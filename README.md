@@ -99,3 +99,4 @@ Checkout some of my trending Blogs-
 [UPI: Revolutionizing the Payment Industry with Seamless Transactions](https://medium.com/@utkarshshukla.author/upi-revolutionizing-the-payment-industry-with-seamless-transactions-f719c6eaedb)
 
 [Synergistic Potential: Exploring the Power of Generative AI in the IoT Industry](https://www.linkedin.com/pulse/synergistic-potential-exploring-power-generative-ai-iot-shukla%3FtrackingId=Ro50gqcAJecUQ8HcvfYKdQ%253D%253D/?trackingId=Ro50gqcAJecUQ8HcvfYKdQ%3D%3D)
+
