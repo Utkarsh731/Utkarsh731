@@ -103,3 +103,5 @@ Checkout some of my trending Blogs-
 [The Significance of Systematic Systems over Individual Systems](https://www.linkedin.com/pulse/significance-systematic-systems-over-individual-utkarsh-shukla%3FtrackingId=jzs4zzo%252FQE20TW%252BN4%252FTqzQ%253D%253D/?trackingId=jzs4zzo%2FQE20TW%2BN4%2FTqzQ%3D%3D)
 
 [SWOT Analysis: Unlocking Business Insights for Success](https://medium.com/@utkarshshukla.author/swot-analysis-unlocking-business-insights-for-success-c996e41afcfa)
+
+[SSL vs. TLS: Exploring the Differences and Knowing When to Use Each](https://medium.com/@utkarshshukla.author/ssl-vs-tls-exploring-the-differences-and-knowing-when-to-use-each-9464abf9b99a)
