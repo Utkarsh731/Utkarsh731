@@ -105,3 +105,5 @@ Checkout some of my trending Blogs-
 [SWOT Analysis: Unlocking Business Insights for Success](https://medium.com/@utkarshshukla.author/swot-analysis-unlocking-business-insights-for-success-c996e41afcfa)
 
 [SSL vs. TLS: Exploring the Differences and Knowing When to Use Each](https://medium.com/@utkarshshukla.author/ssl-vs-tls-exploring-the-differences-and-knowing-when-to-use-each-9464abf9b99a)
+
+[Process vs. Thread: Understanding the Differences and When to Use Each](https://medium.com/@utkarshshukla.author/process-vs-thread-understanding-the-differences-and-when-to-use-each-9a9f0cfb6188)
