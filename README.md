@@ -107,3 +107,5 @@ Checkout some of my trending Blogs-
 [SSL vs. TLS: Exploring the Differences and Knowing When to Use Each](https://medium.com/@utkarshshukla.author/ssl-vs-tls-exploring-the-differences-and-knowing-when-to-use-each-9464abf9b99a)
 
 [Process vs. Thread: Understanding the Differences and When to Use Each](https://medium.com/@utkarshshukla.author/process-vs-thread-understanding-the-differences-and-when-to-use-each-9a9f0cfb6188)
+
+[RPC vs. REST: A Comprehensive Comparison](https://medium.com/@utkarshshukla.author/rpc-vs-rest-a-comprehensive-comparison-88d0c7e13687)
