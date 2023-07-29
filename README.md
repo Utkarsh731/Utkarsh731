@@ -110,3 +110,4 @@ Checkout some of my trending Blogs-
 
 [RPC vs. REST: A Comprehensive Comparison](https://medium.com/@utkarshshukla.author/rpc-vs-rest-a-comprehensive-comparison-88d0c7e13687)
 
+[Best Python Coding Practices: Writing Clean and Efficient Code](https://medium.com/@utkarshshukla.author/best-python-coding-practices-writing-clean-and-efficient-code-4784946a17d0)
