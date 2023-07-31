@@ -8,6 +8,8 @@ Award-winning professional 🏆 Recognized with the Student of the Semester Awar
 
 Check out my website - [Utkarsh Shukla](https://www.utkarshshukla.com/)
 
+[NerdyBio Interview](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
+
 Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
 
 Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
