@@ -1,6 +1,6 @@
 Tech wizard, speaker and innovation enthusiast 💻 Product Owner at [NerdyBio](https://www.nerdybio.com/) , Full Stack Developer and Consultant at [StatusNeo](https://statusneo.com/), AWS Certified and Writer at [Medium](https://medium.com/@utkarshshukla.author)
 
-120+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
+125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
 
