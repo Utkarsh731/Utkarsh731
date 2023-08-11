@@ -113,3 +113,5 @@ Checkout some of my Blogs-
 [RPC vs. REST: A Comprehensive Comparison](https://medium.com/@utkarshshukla.author/rpc-vs-rest-a-comprehensive-comparison-88d0c7e13687)
 
 [Best Python Coding Practices: Writing Clean and Efficient Code](https://medium.com/@utkarshshukla.author/best-python-coding-practices-writing-clean-and-efficient-code-4784946a17d0)
+
+[Mastering Error Handling and Debugging in Python: A Comprehensive Guide with Examples](https://medium.com/@utkarshshukla.author/mastering-error-handling-and-debugging-in-python-a-comprehensive-guide-with-examples-b6e8258a5c4c)
