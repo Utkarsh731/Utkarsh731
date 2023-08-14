@@ -1,4 +1,4 @@
-Tech wizard, speaker and innovation enthusiast 💻 Product Owner at [NerdyBio](https://www.nerdybio.com/) , Full Stack Developer and Consultant at [StatusNeo](https://statusneo.com/), AWS Certified and Writer at [Medium](https://medium.com/@utkarshshukla.author)
+Tech wizard, speaker, software engineer and innovation enthusiast 💻 Product Owner at [NerdyBio](https://www.nerdybio.com/) , Full Stack Developer and Consultant at [StatusNeo](https://statusneo.com/), AWS Certified and Writer at [Medium](https://medium.com/@utkarshshukla.author)
 
 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
