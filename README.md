@@ -10,11 +10,11 @@ Check out my website - [Utkarsh Shukla](https://www.utkarshshukla.com/)
 
 Product owner at [NerdyBio](https://www.nerdybio.com/)
 
+Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
+
 [NerdyBio Interview](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
 
 Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
-
-Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
 
 Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
 
