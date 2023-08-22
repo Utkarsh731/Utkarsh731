@@ -12,9 +12,9 @@ Product owner at [NerdyBio](https://www.nerdybio.com/)
 
 Technical Blogs for [Medium](https://medium.com/@utkarshshukla.author)
 
-[NerdyBio Interview](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
-
 Technical blogs for [StatusNeo](https://statusneo.com/author/utkarsh-shukla)
+
+[NerdyBio Interview](https://www.nerdybio.com/interview/?search=Utkarsh.Shukla)
 
 Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
 
