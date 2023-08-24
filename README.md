@@ -20,7 +20,7 @@ Photographer at [Pexels](https://www.pexels.com/@utkarsh-shukla-204757820/)
 
 Poetries at - [Utkarsh V Shukla Poetries](https://www.utkarshshukla.com/poetry)
 
-Checkout some of my Blogs-
+Checkout some of my trending Blogs-
 
 [Generative AI: How It’s Disrupting Industries and Changing the World](https://statusneo.com/generative-ai-how-its-disrupting-industries-and-changing-the-world/)
 
