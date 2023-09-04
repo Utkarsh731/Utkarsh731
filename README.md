@@ -4,7 +4,7 @@ Have written 125+ thought-provoking blogs published on cutting-edge technologies
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
 
-Award-winning professional 🏆 Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
+Award-winning professional, Recognized with the Student of the Semester Award, Best Blogger Award, and Immense Contribution Award from various organizations and universities, I am constantly pushing the limits and delivering exceptional results. 
 
 Check out my website - [Utkarsh Shukla](https://www.utkarshshukla.com/)
 
