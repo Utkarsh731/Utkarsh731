@@ -121,3 +121,5 @@ Checkout some of my trending Blogs-
 [Mastering Quality Assurance: 40 Essential Interview Questions and Answers](https://medium.com/@utkarshshukla.author/mastering-quality-assurance-40-essential-interview-questions-and-answers-2671e2f7afc4)
 
 [Understanding Memory Management in Python: A Comprehensive Guide with Real-Life Examples](https://fourofour.org/understanding-memory-management-in-python-a-comprehensive-guide-with-real-life-examples/)
+
+[Crafting and Launching Web Apps with Streamlit in Python: A Step-by-Step Guide](https://medium.com/@utkarshshukla.author/crafting-and-launching-web-apps-with-streamlit-in-python-a-step-by-step-guide-6ad761a3131f)
