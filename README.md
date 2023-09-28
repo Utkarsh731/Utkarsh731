@@ -125,3 +125,5 @@ Checkout some of my trending Blogs-
 [Crafting and Launching Web Apps with Streamlit in Python: A Step-by-Step Guide](https://medium.com/@utkarshshukla.author/crafting-and-launching-web-apps-with-streamlit-in-python-a-step-by-step-guide-6ad761a3131f)
 
 [A Comprehensive Guide to HTTP Status Codes: When and How to Use Them in API Development](https://medium.com/@utkarshshukla.author/a-comprehensive-guide-to-http-status-codes-when-and-how-to-use-them-in-api-development-2d65d87aeb2b)
+
+[The Art of Coding: Tips from the Pros](https://medium.com/@utkarshshukla.author/the-art-of-coding-tips-from-the-pros-f84c352f5ff)
