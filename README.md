@@ -128,3 +128,5 @@ Checkout some of my trending Blogs-
 
 [The Art of Coding: Tips from the Pros](https://medium.com/@utkarshshukla.author/the-art-of-coding-tips-from-the-pros-f84c352f5ff)
 
+[Cinematic Wisdom: 5 Powerful Takeaways from ‘Fight Club’](https://medium.com/@utkarshshukla.author/cinematic-wisdom-5-powerful-takeaways-from-fight-club-312de25bff64)
+
