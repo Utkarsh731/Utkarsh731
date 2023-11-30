@@ -131,3 +131,4 @@ Checkout some of my trending Blogs-
 [Cinematic Wisdom: 5 Powerful Takeaways from ‘Fight Club’](https://medium.com/@utkarshshukla.author/cinematic-wisdom-5-powerful-takeaways-from-fight-club-312de25bff64)
 
 [Maximizing Productivity: Mastering Time Management in the World of Tech Wizardry](https://statusneo.com/maximizing-productivity-mastering-time-management-in-the-world-of-tech-wizardry-utkarsh-shukla/)
+
