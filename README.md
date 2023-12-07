@@ -1,5 +1,9 @@
 I am an Evangelist, Tech wizard, speaker, software engineer and innovation enthusiast. Host at [Professionals Unplugged](https://www.youtube.com/@ProfessionalsUnplugged), Product Owner at [NerdyBio](https://www.nerdybio.com/) and [QueryButler](https://querybutler.ai/), Full Stack Developer and Senior Consultant at [StatusNeo](https://statusneo.com/), AWS Certified and Writer at [Medium](https://medium.com/@utkarshshukla.author).
 
+Interviews and Podcasts-
+
+[Rebecca Arora: Journey from Self-Unknown to Relationship Coach | Connecting with Oneself | Unplugged](https://www.youtube.com/watch?v=I4bLlciAdUI&list=PLeOfEhMi-UDcYzdlKnfNag8WwghkChngq&index=21)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
