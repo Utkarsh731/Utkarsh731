@@ -4,6 +4,8 @@ Interviews and Podcasts-
 
 [Rebecca Arora: Journey from Self-Unknown to Relationship Coach | Connecting with Oneself | Unplugged](https://www.youtube.com/watch?v=I4bLlciAdUI&list=PLeOfEhMi-UDcYzdlKnfNag8WwghkChngq&index=21)
 
+[Marianna: Empowering Careers & Creating Peace | Content Leader | Life in Israel | Peace for World](https://youtu.be/VvkOjH_Topo?si=UxOh0CW0-cyKbydP)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
