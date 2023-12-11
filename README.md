@@ -6,6 +6,8 @@ Interviews and Podcasts-
 
 [Marianna: Empowering Careers & Creating Peace | Content Leader | Life in Israel | Peace for World](https://youtu.be/VvkOjH_Topo?si=UxOh0CW0-cyKbydP)
 
+[From Copyeditor to Founder: Gaiana Capilla's journey & AI's Impact | Utkarsh Shukla | StikiCopy | AI](https://www.youtube.com/watch?v=8YDM3lSjG2M)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
