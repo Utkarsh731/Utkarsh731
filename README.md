@@ -10,6 +10,8 @@ Interviews and Podcasts-
 
 [From Copyeditor to Founder: Gaiana Capilla's journey & AI's Impact | Utkarsh Shukla | StikiCopy | AI](https://www.youtube.com/watch?v=8YDM3lSjG2M)
 
+[Tenley E. Raj: Journey from Motherhood to Filmmaking | Before the Freeze | Professionals Unplugged](https://www.youtube.com/watch?v=LThXSCtZujg&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg&index=5)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
