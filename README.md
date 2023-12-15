@@ -14,6 +14,8 @@ Interviews and Podcasts-
 
 [Master Storyteller Laura Morton: Crafting Narratives, Mental Health Advocacy, and Success in Films](https://www.youtube.com/watch?v=nlQaXl_MuTQ)
 
+[Dr. Priti Yamdagni: From Teaching Basics to Doctorate, Book Writing, & Amitabh Bachchan's Autograph](https://www.youtube.com/watch?v=2HiM19ApARw)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
