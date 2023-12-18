@@ -18,6 +18,8 @@ Interviews and Podcasts-
 
 [Utkarsh's Exclusive Chat with Tayla on the Art & Insights of Photography | Professionals Unplugged](https://www.youtube.com/watch?v=SdRgzcyrcFc)
 
+[Exploring the World and Creativity: Utkarsh Interviews Elvira, the Digital Nomad Graphic Designer](https://www.youtube.com/watch?v=opm8nCGYh7Y&list=PLeOfEhMi-UDcYzdlKnfNag8WwghkChngq&index=14)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
