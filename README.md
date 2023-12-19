@@ -20,6 +20,8 @@ Interviews and Podcasts-
 
 [Exploring the World and Creativity: Utkarsh Interviews Elvira, the Digital Nomad Graphic Designer](https://www.youtube.com/watch?v=opm8nCGYh7Y&list=PLeOfEhMi-UDcYzdlKnfNag8WwghkChngq&index=14)
 
+[Conversations on Creativity: Utkarsh Interviews Aynur from Salaam Cinema | Professionals Unplugged](https://www.youtube.com/watch?v=qU3kZBwNmB4&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg&index=12)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
