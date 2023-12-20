@@ -2,6 +2,8 @@ I am an Evangelist, Tech wizard, speaker, software engineer and innovation enthu
 
 Interviews and Podcasts-
 
+[Teaching to Content Leadership: Dariya's Inspiring Global Journey | CopyWriter | Editor | SEO Expert](https://www.youtube.com/watch?v=1eqv2y81xHw&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg)
+
 [Russian to Israeli Success: Margarita's Career Journey | Utkarsh Shukla Interview | Project Manager](https://www.youtube.com/watch?v=WObez44v5n8&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg&index=1)
 
 [Rebecca Arora: Journey from Self-Unknown to Relationship Coach | Connecting with Oneself | Unplugged](https://www.youtube.com/watch?v=I4bLlciAdUI&list=PLeOfEhMi-UDcYzdlKnfNag8WwghkChngq&index=21)
