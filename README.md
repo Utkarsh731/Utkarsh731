@@ -2,6 +2,8 @@ I am an Evangelist, Tech wizard, speaker, software engineer and innovation enthu
 
 Interviews and Podcasts-
 
+[Empowering Young Minds: Nadia's Journey from Tutoring to Transformative Coaching | Manager vs Leader](https://www.youtube.com/watch?v=BeIN5gdNBPo)
+
 [Teaching Math and Statistics with Real-Life Contexts: Olga Starkova's Inspiring Journey | Interviews](https://www.youtube.com/watch?v=MJGCPiPpJU0&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg&index=1)
 
 [Teaching to Content Leadership: Dariya's Inspiring Global Journey | CopyWriter | Editor | SEO Expert](https://www.youtube.com/watch?v=1eqv2y81xHw&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg)
