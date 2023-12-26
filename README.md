@@ -28,6 +28,8 @@ Interviews and Podcasts-
 
 [Conversations on Creativity: Utkarsh Interviews Aynur from Salaam Cinema | Professionals Unplugged](https://www.youtube.com/watch?v=qU3kZBwNmB4&list=UULFHQ0Pw6MXT3G6XgRhdg53Qg&index=12)
 
+[Utkarsh's In-Depth Chat with Dr. Mandy Zimmermann: Exploring Emotional Intelligence's Vital Role](https://www.youtube.com/watch?v=YbsX7o_82wk)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
