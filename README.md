@@ -30,6 +30,8 @@ Interviews and Podcasts-
 
 [Utkarsh's In-Depth Chat with Dr. Mandy Zimmermann: Exploring Emotional Intelligence's Vital Role](https://www.youtube.com/watch?v=YbsX7o_82wk)
 
+[Utkarsh Sharma's Academic Journey: Exclusive Interview with Utkarsh Shukla | Professionals Unplugged](https://www.youtube.com/watch?v=i8Wcvg41IJE)
+
 Have written 125+ thought-provoking blogs published on cutting-edge technologies, my expertise in System and Database Designing is second to none. 
 
 I bring proficiency in Python with a strong grip on frameworks such as Flask and Django, and databases including MongoDB, RDS, Redshift and Aurora.
